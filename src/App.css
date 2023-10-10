@@ -40,3 +40,8 @@
 .read-the-docs {
   color: #888;
 }
+
+#backlog {
+  border: gainsboro 2px solid;
+  border-radius: 8px;
+}
